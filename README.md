@@ -5,6 +5,7 @@
 ## 📊 Project Summary
 This project aims to develop a comprehensive analytics system to enhance Anti-Money Laundering (AML) compliance on cryptocurrency transaction platforms. By leveraging data engineering techniques, machine learning algorithms, and interactive data visualizations, the system efficiently detects suspicious transaction patterns and identifies high-risk users.
 
+![Deskripsi Gambar](reports/1.png)
 ### Key Statistics
 - **203,768** Transactions analyzed  
 - **1,000** Users profiled  
@@ -14,10 +15,10 @@ This project aims to develop a comprehensive analytics system to enhance Anti-Mo
 ## 🔎 Key Features
 ### 1. Transaction Label Distribution Analysis  
 Analysis indicates that **77.1%** of transactions are unclassified (unknown), **20.6%** are identified as illicit, and only **2.23%** are labeled as licit. The high proportion of unclassified and illicit transactions underscores the necessity of sophisticated detection systems.
-
+![Deskripsi Gambar](reports/2.png)
 ### 2. Transaction Volume Monitoring  
 The analysis reveals significant fluctuations in transaction volume over time, with peaks reaching approximately **8,000 transactions** and troughs around **1,000 transactions**. Identifying unusual spikes aids in detecting potential coordinated suspicious activities.
-
+![Deskripsi Gambar](reports/3.png)
 ### 3. User Profiling  
 Transaction distribution per user displays a **bimodal pattern**, where most users conduct very few transactions, while a small group of users execute a significantly higher number of transactions (**800+ transactions**). This pattern suggests possible structuring or smurfing activities.
 
@@ -26,9 +27,11 @@ Our anomaly detection system identifies **1.4% of users** as potentially suspici
 - Isolation Forest
 - Local Outlier Factor (LOF)
 - One-Class SVM
-
+![Deskripsi Gambar](reports/6.png)
+![Deskripsi Gambar](reports/7.png)
 ### 5. Suspicious User Identification  
 The system successfully flagged **14 suspicious users** with anomalous transaction patterns. These users executed **816 transactions** within a **single day**, indicating abnormally high transaction frequency.
+![Deskripsi Gambar](reports/8.png)
 
 ## 📈 Methodology
 This project employs a multi-faceted approach to AML compliance:

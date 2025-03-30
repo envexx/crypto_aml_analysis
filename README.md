@@ -1,6 +1,6 @@
 # Crypto Transaction Pattern Analysis for AML Compliance
 
-![Deskripsi Gambar](report/1.png)
+![Deskripsi Gambar](reports/1.png)
 
 ## 📊 Project Summary
 This project aims to develop a comprehensive analytics system to enhance Anti-Money Laundering (AML) compliance on cryptocurrency transaction platforms. By leveraging data engineering techniques, machine learning algorithms, and interactive data visualizations, the system efficiently detects suspicious transaction patterns and identifies high-risk users.

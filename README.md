@@ -51,10 +51,10 @@ A **Streamlit** dashboard has been developed to assist compliance officers in:
 
 ## 📑 Detailed Reports
 For in-depth analysis, refer to the following reports:
-- [Anomaly Detection Report](report/anomaly_report.pdf) – Insights into anomaly detection methodologies and results
-- [Risk Assessment Report](report/risk_report.pdf) – Comprehensive breakdown of risk scoring methods
-- [User Profiling Report](report/user_profile.pdf) – Identification of behavioral patterns and suspicious activities
-- [Overview Report](report/overview.pdf) – Executive summary of key findings
+- [Anomaly Detection Report](reports/anomaly_report.pdf) – Insights into anomaly detection methodologies and results
+- [Risk Assessment Report](reports/risk_report.pdf) – Comprehensive breakdown of risk scoring methods
+- [User Profiling Report](reports/user_profile.pdf) – Identification of behavioral patterns and suspicious activities
+- [Overview Report](reports/overview.pdf) – Executive summary of key findings
 
 ## 🛠️ Technologies Used
 - **Python** – Core programming language

@@ -1,0 +1,4 @@
+,anomalies_count,anomalies_percent,training_time
+Isolation Forest,14.0,1.4000000000000001,0.14400005340576172
+Local Outlier Factor,14.0,1.4000000000000001,0.03000187873840332
+One-Class SVM,200.0,20.0,0.005999565124511719
